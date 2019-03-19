@@ -1,1 +1,1 @@
-# FckinEquatable-
+# FckinEquatable
