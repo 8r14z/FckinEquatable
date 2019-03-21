@@ -1,5 +1,12 @@
 # FckinEquatable
 ***A new way to deal wiht Equatable***
+Provide a new protocol name **FckinEquatable**
+````
+protocol FckinEqualtable {
+    func equalToAll(_ array: [Self]) -> Bool
+    func equalToOne(_ array: [Self]) -> Bool
+}
+````
 
 ## Example ##
 
