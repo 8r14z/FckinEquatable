@@ -7,7 +7,7 @@ protocol FckinEqualtable {
     func equalToOne(_ array: [Self]) -> Bool
 }
 ````
-With default implementation (protocol extension), you will have this ability for free with just doing this:
+With default implementation (protocol extension), you will have this ability for free with just doing something like below:
 ````
 extension String: FckinEqualtable { }
 ````
