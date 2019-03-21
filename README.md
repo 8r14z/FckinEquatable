@@ -23,6 +23,7 @@ infix operator =|=
 Use can custom your own
 
 `equalToAll` is equivalent to `=&=`
+
 `equalToOne` is equivalent to `=|=`
 
 ## Example ##
