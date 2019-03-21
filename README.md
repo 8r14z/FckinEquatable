@@ -29,7 +29,7 @@ Use can custom your own
 ## Example ##
 
 ````
-if string != "string1" && string != "string2" && string != "string3" {
+if str != "string1" && str != "string2" && str != "string3" {
   // Do something
 }
 ````
@@ -40,3 +40,9 @@ if !str.equalToOne(array) {
   // Do something
 }
 ````
+OR 
+```
+if !(str =!= array) {
+  // Do something
+}
+```
