@@ -20,7 +20,7 @@ Provide 2 default operators:
 infix operator =&=
 infix operator =|=
 ````
-Use can custom your own
+You can custom your own
 
 `equalToAll` is equivalent to `=&=`
 
