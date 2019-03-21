@@ -42,7 +42,7 @@ if !str.equalToOne(array) {
 ````
 OR 
 ```
-if !(str =!= array) {
+if !(str =|= array) {
   // Do something
 }
 ```
