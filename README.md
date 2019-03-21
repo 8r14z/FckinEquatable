@@ -15,6 +15,15 @@ With default implementation (protocol extension), you will have this ability for
 ````
 extension String: FckinEqualtable { }
 ````
+Provide 2 default operators:
+````
+infix operator =&=
+infix operator =|=
+````
+Use can custom your own
+
+`equalToAll` is equivalent to `=&=`
+`equalToOne` is equivalent to `=|=`
 
 ## Example ##
 
