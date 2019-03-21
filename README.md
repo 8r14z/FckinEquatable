@@ -1,5 +1,6 @@
 # FckinEquatable
-***A new way to deal wiht Equatable*** Provide a new protocol name **FckinEquatable**. 
+***A new way to deal with Equatable***.
+Provide a new protocol name **FckinEquatable**. 
 This is also an example for overloading operator in Swift. You can create your own operator.
 
 ````
